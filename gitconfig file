@@ -1,0 +1,2 @@
+git config -- global user.name “masenar” 
+git config -- global user.mail “miquelangel.senar@uab.es”
